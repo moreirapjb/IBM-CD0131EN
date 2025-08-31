@@ -1,2 +1,2 @@
 # IBM-CD0131EN
-IBM CD0131EN Course Reporisoty
+IBM CD0131EN Course Repository
